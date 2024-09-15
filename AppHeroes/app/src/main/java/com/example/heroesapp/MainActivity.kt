@@ -12,7 +12,7 @@ import com.example.heroesapp.models.User
 import com.google.android.material.snackbar.Snackbar
 
 /**
- * Actividad principal que maneja el inicio de sesión del usuario.
+ * Actividad principal que maneja el inicio de sesión del usuario
  */
 class MainActivity : AppCompatActivity() {
     lateinit var emailEditText: EditText

@@ -4,7 +4,7 @@ import android.os.Parcel
 import android.os.Parcelable
 
 /**
- * Representa un ítem de personaje con información necesaria para mostrar en la aplicación.
+ * Representa un ítem de personaje con información necesaria para mostrar en la aplicacion
  *
  * @property id Identificador único del personaje.
  * @property name Nombre del personaje.
