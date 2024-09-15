@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HeroesApp</string>
+    <string name="email">Ingresa tu email</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Acceder</string>
+    <string name="backwards_arrow">backwards arrow</string>
+    <string name="descripcion_heroe">En esta sección, podrás explorar a fondo a tus héroes favoritos del universo Marvel y DC. Cada héroe viene con una descripción detallada que incluye sus habilidades, origen, y aspectos destacados. Desde los icónicos superhéroes hasta los personajes más enigmáticos, descubrirás la historia y las características que los hacen únicos. Con imágenes vibrantes y datos interesantes, esta sección te permitirá conocer mejor a tus héroes y apreciar lo que los hace destacar en sus respectivos universos.</string>
+</resources>
